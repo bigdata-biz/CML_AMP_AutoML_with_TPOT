@@ -7,7 +7,7 @@ date: "2022-04-12"
 
 runtimes:
   - editor: JupyterLab
-    kernel: Python 3.9
+    kernel: Python 3.8
     edition: Standard
 
 tasks:
